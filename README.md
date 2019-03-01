@@ -1,1 +1,1 @@
-# NormalEquation
+# NormalEquation and Gradient Descent Implementation
